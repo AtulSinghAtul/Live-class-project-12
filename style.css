@@ -74,6 +74,7 @@ header {
 header img {
   width: 600px;
   height: 550px;
+  object-fit:content;
 }
 
 .header-div {
