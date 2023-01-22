@@ -31,4 +31,4 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--12-green)
 
-![LCO](./12.png)
+![screencapture-ineuron-live-class-project-12-netlify-app-2023-01-22-21_38_56](https://user-images.githubusercontent.com/112545072/213926310-fe0ef2a3-fb4e-457f-a370-5b0a30edb9f3.png)
